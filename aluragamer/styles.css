@@ -1,0 +1,40 @@
+body{
+    color: rgb(4, 68, 47);
+    background: black ;
+    margin: 0px;
+    font-family: ' font-family: "Protest Guerrilla", sans-serif;'
+    
+}
+
+header  {
+    border-bottom: solid 2px rgb(19, 73, 55);
+    padding: 20px;
+    font-size: 40px ;
+}
+
+section {
+    background: rgb(149, 221, 197);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display:flex ;
+    justify-content: center;
+}
+
+ .chamada-texto{
+    margin-right: 5% ;
+
+}
+h1{
+    font-size: 40px;
+}
+
+img{
+
+    height: 200px;
+}
+
+.categoria-videos {
+display: flex ;
+overflow-x: auto ;
+gap: 20px ;
+}
